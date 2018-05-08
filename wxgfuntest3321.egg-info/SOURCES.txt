@@ -1,0 +1,7 @@
+setup.py
+wxgfuntest3321/__init__.py
+wxgfuntest3321.egg-info/PKG-INFO
+wxgfuntest3321.egg-info/SOURCES.txt
+wxgfuntest3321.egg-info/dependency_links.txt
+wxgfuntest3321.egg-info/not-zip-safe
+wxgfuntest3321.egg-info/top_level.txt
